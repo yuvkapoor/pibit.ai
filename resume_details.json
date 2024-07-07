@@ -1,0 +1,79 @@
+{
+  "name": "Yuv Kapoor",
+  "contact": {
+    "phone": "+91-8448671890",
+    "email": "yuvkapoor@gmail.com",
+    "linkedin": "linkedin.com/in/yuv-kapoor-995266220",
+    "github": "github.com/yuvkapoor",
+    "residence": "New Delhi"
+  },
+  "education": [
+    {
+      "institution": "SRM Institute of Science and Technology, Delhi-NCR",
+      "degree": "Bachelor of Technology, Computer Science Engineering",
+      "duration": "2021-2025",
+      "cgpa": 9.4
+    },
+    {
+      "institution": "Bhai Parmanand Vidya Mandir Public School",
+      "degree": "Intermediate (CBSE)",
+      "year": 2021,
+      "percentage": 96
+    }
+  ],
+  "projects": [
+    {
+      "title": "Fitness Tracking Mobile Application",
+      "duration": "February 2024 - April 2024",
+      "description": [
+        "Used Java, XML and Firebase to create the app which consumes 15% less memory than Flutter.",
+        "Used gyroscope with accelerometer to calculate the steps which increases the accuracy by 20%.",
+        "Integrated an AI chatbot within the application which tells about the workouts and diet plans which makes achieving personal goals easier by 30%."
+      ]
+    },
+    {
+      "title": "Eyesight test (used in learners license test)",
+      "duration": "March 2023 - May 2023",
+      "description": [
+        "Used Python (Tkinter and Turtle for 10% faster response) to print an image with hidden numbers written on it.",
+        "Led the development of advanced eye health technology, improving diagnostic precision by 15% and enhancing patient experience.",
+        "Engineered a streamlined user experience flow: users input visible number and receive instant pass/fail notification, enhancing user satisfaction and reducing processing time by 30%."
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "title": "Research paper on virtualization and load balancing (Published Paper)",
+      "duration": "August 2023 – February 2024",
+      "description": [
+        "Written about bare-metal virtualization, quantum computing and integration of blockchain in virtualization.",
+        "Engineered an algorithm with industry-leading efficiency metrics by combining MSJF and weighted algorithms, achieving a 30% reduction in energy consumption and 40% faster processing time compared to competitors."
+      ]
+    },
+    {
+      "title": "Data Analysis and Machine Learning Intern",
+      "company": "Birlasoft Noida",
+      "duration": "June 2023 - August 2023",
+      "description": [
+        "Performed sentiment analysis using Python, NLP and data analysis.",
+        "Developed an automated sentiment analysis tool that extracted data from a CSV file, analyzed sentiment with NLP algorithms, and assigned sentiment scores, improving text analysis accuracy by 20%.",
+        "Created graphs according to the sentiment score using Matplotlib."
+      ]
+    }
+  ],
+  "technical_skills_and_interests": {
+    "languages": ["Java", "C++", "C", "Python", "HTML", "CSS"],
+    "skills": ["Microsoft Azure", "AWS S3", "Natural Language Processing"],
+    "databases": ["MongoDB", "MySQL"]
+  },
+  "positions_of_responsibility": [
+    {
+      "position": "Core member of Graphics design and animation club",
+      "organization": "SRM University, Delhi-NCR",
+      "duration": "January 2022 – May 2024",
+      "impact": "Led to 40% increase in event participation"
+    }
+  ],
+  "additional": [
+    {
+      "certification":
